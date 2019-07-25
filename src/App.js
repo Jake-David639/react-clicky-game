@@ -1,9 +1,11 @@
 import React from 'react';
-import Game from './components/Game';
+// TODO ClickyGame will be the component that holds all other components
+// effectively a wrapper or container.
+// import ClickyGame from './components/ClickyGame';
 import './App.css';
 
 function App() {
-  return <Game />
+  return <ClickyGame />
 }
 
 export default App;
