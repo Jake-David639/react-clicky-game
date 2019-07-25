@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-script": "^2.0.5",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -27,5 +28,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jake-David639/react-clicky-game.git"
+  },
+  "author": "JMD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jake-David639/react-clicky-game/issues"
+  },
+  "homepage": "https://github.com/Jake-David639/react-clicky-game#readme"
 }
